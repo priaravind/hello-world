@@ -1,3 +1,20 @@
 this is a new file created in the github for practising prpose
 this is github repository
 i created a new file to see the reflection over the github
+What is Cucumber?
+Cucumber is a testing framework which supports Behavior Driven Development (BDD).
+ It lets us define application behavior in plain meaningful English text using a simple grammar defined by a language called Gherkin.
+
+
+
+create a maveen project 
+new->project->maven project .. press next 
+click on create a simple project and use default workspace checkboxes .. press next 
+give groupid and artifact id and click finish
+
+maveen project will be created . with POM.xml file project object model
+
+build all the jars files via POM.xml file.
+
+
+create an package and create a featu
